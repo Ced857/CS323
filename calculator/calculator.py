@@ -3,6 +3,12 @@ def add():
     b = int(input("Enter first number: "))
 
     print(f'{a} + {b} = {a + b}')
+
+def subtract():
+    a = int(input("Enter first number: "))
+    b = int(input("Enter first number: "))
+
+    print(f'{a} - {b} = {a - b}')
     
 def multiply():
     a = int(input("Enter first number: "))
