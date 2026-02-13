@@ -113,3 +113,5 @@ Ans:
 Data Parallelism would be applied, and which executor you would use.
 
 Ans:
+
+...
