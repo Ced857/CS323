@@ -1,0 +1,8 @@
+import time
+
+def process_patient(patient_id):
+    time.sleep(1)# record checking
+    time.sleep(1)# questioning
+    time.sleep(2) # ultrasound scan
+
+patients = list(range(5))
